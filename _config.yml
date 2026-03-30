@@ -5,7 +5,7 @@ title: A₃ services
 footer: "<a href='https://a3.services'>A₃</a> • © 2026 by <a href='https://chlapcizbystrice.sk' target='_blank'>chzb</a>"
 footer_repo: "https://github.com/pages-a3-services/a3-services"
 
-remote_theme: pages-a3-services/ars-j3kyll-2
+remote_theme: pages-a3-services/ars-j3kyll
 plugins:
   - jekyll-remote-theme
 
