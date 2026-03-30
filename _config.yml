@@ -9,7 +9,6 @@ remote_theme: pages-a3-services/ars-j3kyll
 plugins:
   - jekyll-remote-theme
 
-
 #minima:
 #  skin: dark
 
