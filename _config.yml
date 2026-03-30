@@ -16,12 +16,6 @@ plugins:
 theme_skin: dark
 
 # Predvolené layouty pre všetky stránky
-defaults:
-  - scope:
-      path: ""       # platí pre všetky súbory
-      type: "pages"  # alebo "posts", ak máš blog
-    values:
-      layout: base   # alebo "default", podľa toho, ako sa volá tvoj layout v remote theme
 
 # Súbory, ktoré majú byť zahrnuté do buildu
 include:
