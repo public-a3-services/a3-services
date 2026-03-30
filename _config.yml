@@ -1,0 +1,16 @@
+
+favicon: "/_media/a3-128.png"
+logo: "/_media/a3-128.png"
+title: A₃ - A₃ services
+footer: "<a href='https://a3.services' target='_blank'>a3.services</a>A₃</a> • A₃ services • © 2026 by <a href='https://chlapcizbystrice.sk' target='_blank'>chzb</a> • Powered by <a href='https://a3.services' target='_blank'>a3.services</a>"
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
+
+include:
+  - _media
+
